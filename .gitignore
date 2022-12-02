@@ -1,0 +1,10 @@
+.vscode/
+
+# Environments
+.env
+.heart
+env/
+heart/
+ENV/
+env.bak/
+heart.bak/
