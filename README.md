@@ -36,3 +36,4 @@ docker pull zeeshankhan29/heart_disease
 This project can be used in Health care industry for early Heart issue detections
 
 ```
+![image](https://user-images.githubusercontent.com/95518247/205326608-983ef388-2c3a-4ee6-9058-f61471ba251d.png)
